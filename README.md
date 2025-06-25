@@ -51,7 +51,7 @@ Contains *`LORA_of_FINAL_MobileNetOptimization.ipynb`*, which is the original ex
 This version includes exploratory work, trial runs, and freezed results.
 
 You can open the experiment notebook in Colab here:
-*https://colab.research.google.com/drive/1nV0YMpPpMvOMRurS1avsyzETin-XIrAW?authuser=0#scrollTo=T9VgoGSNiy2x*
+*https://colab.research.google.com/drive/1nV0YMpPpMvOMRurS1avsyzETin-XIrAW*
 
 
 ## 🛠 Notes
