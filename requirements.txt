@@ -8,3 +8,4 @@ tqdm
 tensorboard
 ptflops
 timm
+torchvision
